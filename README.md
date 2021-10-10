@@ -1,0 +1,2 @@
+# Assignment-8
+This week you will be demonstrating your ability to create web content that is accessible and complies with the WCAG 2.0. You will use my files as your starting point and then modify both the HTML and the CSS to include proper alt tags, good color contrast, proper form labels, proper headings, and implement other fixes we learned about this week. The structure of the pages should not change significantly. Focus on fixing the accessibility issues as if I were a client coming to you asking for help.
