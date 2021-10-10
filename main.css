@@ -1,59 +1,58 @@
-body {
-	background-color: #222222;
-	color: #666666;
+body 
+{
+	background-color: #ff3c00;
+	color: #000000;
 	font-size: 18px;
 	padding: 1em 8em;
 }
-
-header, main {
+p 
+{
+	text-indent: 2rem;
+	text-align: center;
+}
+header, main 
+{
 	margin: 1.5em;
 	padding: 1em;
 }
-
-header {
+header, h2, h3, h4 
+{
 	text-align: center;
+	font-size: 2rem !important;
 }
-
-a:link, a:visited, a:active {
-	border: 2px solid lightblue;
+a:link, a:visited, a:active 
+{
+	border: 2px solid black;
 	border-radius: 2px;
-	color: #ffff00;
+	color: #000000;
 }
-
-a:hover {
-	background-color: #ffff00;
-	color: #ffaa50;
+a:hover 
+{
+	background-color: #178222;
+	color: #085710;
 }
-
-table {
+table 
+{
 	border-spacing: 0;
 	border-collapse: separate;
 }
-
-table td {
-	background-color: #dd0000;
+table td 
+{
+	background-color: #721d7d;
 	border: 1px solid #000000;
-	color: #ffaa50;
+	color: #b8aabf;
 	margin: 0;
 	padding: .5em;
 }
-
-table tr {
+table tr 
+{
 	margin: 0;
 	padding: 0;
 }
-
-.large-text {
-	font-size: 2.5em;
-}
-
-.medium-text {
-	font-size: 1.75em;
-}
-
-.favorite-thing {
-	background-color: #ffffff;
-	color: #000000;
+.favorite-thing 
+{
+	background-color: #000000;
+	color: #ffffff;
 	margin: 1.5em 0;
 	padding: 1em;
 }
